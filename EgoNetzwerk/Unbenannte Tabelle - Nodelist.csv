@@ -1,0 +1,11 @@
+Nodelist,,
+from,to,weight
+en,ju,3
+en,lu,3
+en,ma,3
+en,ar,3
+ju,ma,1
+ju,lu,2
+ju,ar,2
+ma,ar,3
+lu,ar,1
